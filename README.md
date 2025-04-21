@@ -21,7 +21,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/baohuiming/autorun"
+	"github.com/loopade/autorun"
 )
 
 func main() {
