@@ -11,7 +11,7 @@ A Go package for managing application auto-start configuration across different 
 ## Installation
 
 ```bash
-go get github.com/baohuiming/autorun
+go get github.com/loopade/autorun
 ```
 
 ## Usage
